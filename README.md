@@ -1,6 +1,4 @@
-# number_plate_detection
-MATLAB-based vehicle number plate detection using image processing and OCR.
-# 🚗 MATLAB License Plate Image Processing Project
+# 🚗 number_plate_detection
 
 This project is a basic implementation of image preprocessing techniques using MATLAB, aimed at preparing vehicle images for potential license plate recognition. It demonstrates how to load, resize, and display images using MATLAB functions. The script is modular and can be extended for further tasks such as character segmentation or OCR-based license plate detection.
 
